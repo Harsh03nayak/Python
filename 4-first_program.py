@@ -1,0 +1,7 @@
+print("Hello World")
+print("good morning everyone ")
+print("This is my first python program")
+print("My name is Harsh Nayak")
+print("Done my graduation in 'BBA' from 'DAIMRS Nagpur'" )
+print("Thankyou Very Much")
+print("Bye world")
